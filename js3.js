@@ -1,5 +1,5 @@
 alert(
-  "Salom! Men 1 dan 10 gacha son o'ylayapman.\nSizning vazifangiz men o'ylagan sonni topish. \nSizda 5 ta urinish mavjud"
+  "Salom! Men 1 dan 10 gacha son o'ylavomman.Sizning vazifangiz men o'ylagan sonni topish. Sizda 5 ta shans bor"
 );
 
 function afs() {
